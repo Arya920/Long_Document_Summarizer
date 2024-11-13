@@ -79,7 +79,7 @@ output_summary = process_pdf_for_summarization(pdf_path)
 print("Output Summary 👇",'\n',output_summary)
 
 from huggingface_hub import login   
-login("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")
+login("xxxxxxxxxxxxxxxxxxxxxxxxxxx")
 print("Logged in to Hugging Face Hub!")
 
 pipe2 = pipeline(
